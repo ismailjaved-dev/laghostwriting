@@ -756,7 +756,7 @@ footer ul::before {
     left: -20px;
     width: 2px;
     height: 50px;
-    background: #2164a7;
+    background: #acacac;
     content: "";
     position: absolute;
 }
@@ -1058,7 +1058,7 @@ footer ul li:hover a {
     margin: auto;
     width: 70px;
     height: 70px;
-    background: #003569;
+    background: #FF5601;
     content: "";
     position: absolute;
     border-radius: 50%;
@@ -1265,7 +1265,7 @@ footer ul li:hover a {
 }
 
 .our-hire {
-    background: #160c49;
+    background: #2C3339;
 }
 
 section.our-hire {
@@ -1539,7 +1539,7 @@ h2::before {
 
 .info-sell h4 {
     font-size: 24px;
-    color: #253fa3;
+    color: #2C3339;
     font-weight: 700;
     margin-bottom: 20px;
 }
@@ -2097,7 +2097,7 @@ span.col-addon-price-nn b {
 }
 
 .our-promotion {
-    background: url("../images/bg-promotion.jpg") no-repeat;
+    background: #2C3339;
     max-width: 100%;
     height: 100%;
     width: 100%;
@@ -2121,7 +2121,7 @@ span.col-addon-price-nn b {
 }
 
 .our-premium {
-    background: url("../images/bg-prem.jpg") no-repeat;
+    background: #2C3339;
     max-width: 100%;
     width: 100%;
     height: 100%;
@@ -2132,6 +2132,14 @@ span.col-addon-price-nn b {
 
 .our-premium .row {
     align-items: center;
+}
+
+.info-prem h2::before{
+    display: none;
+}
+
+.info-prem h2{
+    color: #acacac;
 }
 
 .info-prem p {
