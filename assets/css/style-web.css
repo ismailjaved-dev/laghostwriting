@@ -984,7 +984,7 @@ footer ul li:hover a {
 }
 
 .writing-banner::before {
-    background: url("../images/writing-banner.jpg") no-repeat;
+    background: url("/book-writing/assets/images/writing-banner.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -1512,7 +1512,7 @@ h2::before {
 }
 
 .publishing-banner::before {
-    background: url("../images/publishing-banner.jpg") no-repeat;
+    background: url("/publication/assets/images/publishing-banner.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -2413,7 +2413,7 @@ span.col-addon-price-nn b {
 }
 
 .marketing-banner::before {
-    background: url("../images/marketing-banner.jpg") no-repeat;
+    background: url("/marketing/assets/images/marketing-banner.jpg") no-repeat;
     background-size: cover;
 }
 
